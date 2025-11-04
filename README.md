@@ -18,4 +18,7 @@ I am a passionate IT student at STI College, driven by a curiosity for technolog
 - 🌟 Completed Git & GitHub Setup 2025
 - 🔭 I’m currently working on my final API project.
 
+## Fun Fact
+- I can solve a rubik's cube.
+
 Thanks for stopping by!
